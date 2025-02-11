@@ -1,0 +1,11 @@
+- settings panel with font color / size, background color
+
+- remember (in database) last psalm visited add setting to enable (persistance)
+
+- add next/prev buttons on psalm view
+
+- allow swiping to go next / prev ?
+
+- handle "another of the same" psalms better. At least space them out, but maybe have a selector button at the top of the psalm page instead so you can toggle between them.
+
+- add title to viewPsalm page with psalm number
